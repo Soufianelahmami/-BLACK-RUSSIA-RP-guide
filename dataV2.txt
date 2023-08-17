@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Welcome to the world of Black Russia RP, a unique and immersive role-playing experience that blends historical fiction with creative storytelling","photo":"https://iili.io/HDbjScB.webp"},
+  {"title":"title2 ser","desc":" In this guide, we'll delve into the rich setting, character possibilities, and narrative opportunities that Black Russia RP offers.","photo":"https://iili.io/HDbj4AF.webp"},
+  {"title":"title3 ser","desc":"Whether you're a seasoned role-player or a newcomer to the genre, this guide will help you navigate and excel in this captivating universe","photo":"https://iili.io/HDbjU8P.webp"},
+  {"title":"title4 ser","desc":"Black Russia RP is set in an alternative historical timeline where the Russian Revolution of 1917 took a drastically different turn","photo":"https://iili.io/HDbjr91.webp"},
+  {"title":"title5 ser","desc":"The Bolsheviks were overthrown, leading to the establishment of a coalition government comprising various factions, ideologies, and power struggles","photo":"https://iili.io/HDbj6wg.webp"},
+  {"title":"title6 ser","desc":"As a result, the once monolithic Russian Empire is now fragmented into a diverse tapestry of territories, each controlled by different groups.","photo":"https://iili.io/HDbjPta.webp"},
+  {"title":"title7 ser","desc":"Red Regency: Comprising remnants of the Bolsheviks, the Red Regency seeks to establish a socialist order and regain control over the fractured lands.","photo":"https://iili.io/HDbjsoJ.webp"},
+  {"title":"title8 ser","desc":"Imperial Remnants: Supporters of the Romanov dynasty, these factions strive to restore the monarchy and reclaim the throne","photo":"https://iili.io/HDbjLMv.webp"}
    ]
  
 }
